@@ -4,12 +4,15 @@ set title
 set number	" show line numbers
 set cursorline 	" highlight current line
 set showmatch	" highlight matching [{()}]
-set foldenable  " enable folding
+" set foldenable  " enable folding
 set tabstop=4
 set shiftwidth=4
 set nobackup
 set noswapfile
 set noexpandtab
+" Sets a vertical bar at 110 chars
+" set colorcolumn=110
+" highlight ColorColumn ctermbg=darkgrey
 
 syntax on
 hi Comment term=none ctermfg=green ctermbg=darkgray guifg=Gray
@@ -22,6 +25,12 @@ nnoremap <leader>sv :source $MYVIMRC<CR>
 nnoremap <leader>tt <C-]>
 nnoremap <leader>rr <C-t>
 nnoremap <leader>fg <C-z>
+nnoremap <leader>ww <C-w>
+nnoremap <leader>ff <C-W>gf
+nnoremap <leader>d :Explore<CR>
+nnoremap <space> za<CR>
+" Map <VGF> key combo to open file under cursor in vertical split window
+nnoremap vgf <C-W>gf 
 " Map <JK> key combo to emulate escape key (easier on left hand)
 inoremap jk <ESC>
 " }}}
@@ -49,10 +58,10 @@ set splitright
 
 " Function Key Mapping {{{
 noremap <silent> <F2> :echo 'Current time is ' . strftime('%c')<CR>
-noremap <silent> <F4> :!start compile.bat % & pause<CR>
-noremap <silent> <F5> :!start /min build.bat & pause<CR>
-noremap <silent> <F7> : <Esc>:w<CR>:!clear;lua %<CR>
-noremap <silent> <F8> : <Esc>:w<CR>:!clear;scp % root@192.168.181.76:/home/root<CR>
+noremap <silent> <F4> :!clear;./compile.bat %<CR>
+noremap <silent> <F5> :!clear; /.build.bat<CR>
+noremap <silent> <F7> : <Esc>:w<CR>:!clear;make makefile<CR>
+" noremap <silent> <F8> : <Esc>:w<CR>:!clear;scp % root@192.168.181.76:/home/root<CR>
 noremap <silent> <F9> : <Esc>:w<CR>:!clear;python %<CR>
 noremap <silent> <F10> : <Esc>:w<CR>:!clear;python3 %<CR>
 " }}}

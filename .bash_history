@@ -1,2000 +1,2000 @@
+clear
+arp -a
+clear
+arp -a
+clear
+arp -a | grep 192.168.76
+ifconfig
+ipconfig
+ifconfig
+clear
+arp -a | grep 192.168.76
+ping 192.168.76.70
+ipconfig
+mac
+MAC
+ping 192.168.76.70
+clear
+arp -a | grep 192.168.76
+clear
+arp -a | grep 192.168.76
+arp -d
+clear
+arp -a | grep 192.168.76
+clear
+arp -a | grep 192.168.76
+ping 192.168.76.71
+ping 192.168.76.75
+ping 192.168.76.79
+ping 192.168.76.70
+ping 192.168.76.71
+ping 192.168.76.74
+ping 192.168.76.75
+ping 192.168.76.78
+ping 192.168.76.79
+arp -a
 ls
-scp root@192.168.181.206:/home/root/* .
-rm *.txt
-ls
-clear
-ls
-git status
-clear
-vim batchmon 
-clear
-scp batchmon root@192.168.181.206:/home/root
-sdrive
-clear
-ls
-cd ADD\ INJ\ TESTS/
-ls
-clear
-scp root@192.168.181.206:/home/root/*.txt .
-cat pf_file.txt 
-cdiff
-cu
-clear
-history | grep "sudo apt-get install"
-xpcom
-colordiff
-cdiff
-clear
-history | less
-clear
-ls
-scp root@192.168.181.206:/home/root/*.txt .
-diff prePF.txt postPF.txt | vim -R -
-clear
-vim -d prePF.txt postPF.txt
-clear
-ls
-scp root@192.168.181.206:/home/root/*.txt .
-ls
-cat pf_file.txt 
-history | grep lp
-lpstat -p -d
-lpstat -d
-lpr --help
-lpr
-lp -d SHARP-MX-3501N pf_file.txt 
-lp -o prettyprint -d SHARP-MX-3501N pf_file.txt 
-cdif
-udiff
-clear
-vimdiff prePF.txt postPF.txt
+vim connection.yml 
+vim accutest.yml 
+vim connection.yml 
 clear
 ls
-lp -o prettyprint diff.txt
-colordiff
-wdiff
-sudo apt-get install wdiff
-clear
-wdiff
-wdiff --help
-man wdiff
-wdiff prePF.txt postPF.txt
-lp -o prettyprint | wdiff prePF.txt postPF.txt
-wdiff prePF.txt postPF.txt > diff.txt
-ls
-cat diff.txt
-rm diff.txt
-ls
+jobs
+fg 2
+fg
+vim ethanol_expansion_testing.py 
+python ethanol_expansion_testing.py 
+vim accutest.yml
 clear
 ls
-rm *.txt
-scp root@192.168.181.206:/home/root/*.txt .
-ls
-scp root@192.168.181.206:/home/root/*.txt .
-icdiff {pre|post}PF.txt
-icdiff {pre,post}PF.txt
-ls
-icdiff prePF.txt postPF.txt
-ls
-icdiff
-diff {pre,post}PF.txt
-cat prePF.txt
+vim connection.yml 
+fg
+python ethanol_expansion_testing.py 
 clear
-icdiff
+python ethanol_expansion_testing.py 
+fg
+python ethanol_expansion_testing.py 
+fg
 clear
-scp root@192.168.181.206:/home/root/*.txt .
+fg
+clear
+python ethanol_expansion_testing.py 
+vim ethanol_expansion_testing.py 
+python ethanol_expansion_testing.py
 ls
-ls *.txt
-icdiff {pre,post}PF2.txt
-icdiff {pre,post}PF.txt
-cat pf_file2.txt
-icdiff {pre,post}PF.txt > icdiff.txt
-vim icdiff.txt
-clear
-diff {pre,post}PF2.txt
-diff -y {pre,post}PF2.txt
-diff -y {pre,post}PF2.txt > diff.txt
-cat diff.txt
-clear
-lp -o prettyprint diff.txt
-lp -o prettyprint pf_file2.txt
-icdiff {pre,post}PF.txt > icdiff.txt
-icdiff {pre,post}PF.txt
-icdiff {pre,post}PF2.txt
-icdiff {pre,post}PF2.txt > icdiff.txt
-cat icdiff.txt 
-lp -o prettyprint icdiff.txt 
+cd
 clear
 ls
-rm *.txt
+ssh user@192.168.233.129
+clear
+al3
 ls
-scp root@192.168.181.206:/home/root/*.txt .
-icdiff prePF.txt postPF.txt 
-scp root@192.168.181.206:/home/root/*.txt .
-clear
+vim a3_hrdw.inc
 ls
-ll *.txt
-scp root@192.168.181.206:/home/root/*3.txt .
-icdiff prePF3.txt postPF3.txt
-icdiff {prePF,postPF}3.txt
-icdiff {prePF,postPF}2.txt
-lp -o prettyprint pf_file3.txt
-lp -o prettyprint prePF3.txt
-lp -o prettyprint postPF3.txt
-lp -o prettyprint postPF2.txt
-lp -o prettyprint prePF2.txt
+vim a3_hrdw.inc
+rm *.ol
+rm *.pp
+ls
+vim io_hrdw.h
+grepc EPLD_OPTION_RSVD1 *
+grepc EPLD_OPTION_RSVD *
+ml
+ls
+grepc EPLD_OPTION_RSVD *
+vim io_hrdw.h
+al3
 clear
-sudo /sbin/rmmod kvm-intel
-sudo /sbin/rmmod kvm
-clear
+grepc PEMEX *
+ssh user@192.168.233.129
+cd
+LOCAL
+ls
+vim TL060821.txt 
+explorer
+explorer .
 exit
-cd firefox
+fg
+exit
+LOCAL
 ls
+clear
+md5sum * > md5sum.txt
+clear
+md5sum *.bin
+md5sum *.bin > firmware_md5sum.txt
+exit
+cd
+cd Documents/
+cd AL3_Documentation/
+cd Test/
+cd Rev\11.30
+ls
+cd 'Rev 11.30'
+ls
+clear
+ls
+vim ethanol_expansion_testing.py 
+exit
+ssh user@192.168.233.129
+cd /d
+ls
+scp
+scp fslc-xwayland-glibc-x86_64-meta-toolchain-qt5-cortexa53-crypto-imx8mm-var-dart-toolchain-3.3.sh user@192.168.233.129:/home/user
+mv fslc-xwayland-glibc-x86_64-meta-toolchain-qt5-cortexa53-crypto-imx8mm-var-dart-toolchain-3.3.sh dart-toolchain.sh
+ls
+scp dart-toolchain.sh user@192.168.233.129:/home/user
+ssh user@192.168.233.129
+exit
+ssh user@192.168.233.129
+clear
+ls
+cd Documents/AL3_Documentation/
+ls
+scp mv 'Revision 11.29 Release Memo.pdf' ecn/
+mv 'Revision 11.29 Release Memo.pdf' ecn/
+ls
+cleaer
+clear
+ls
+scp *pdf user@192.168.233.129:/home/user
+clear
+cd
+cd Documents/ALIV_Documentation/
+ls
+mkdir -pv Doxygen/TIVAsitter
+cd Doxygen/TIVAsitter/
+scp user@192.168.233.129:/home/user/SoftwareDevelopment/acculoadiv/TIVAsitter/html/* .
+scp -r user@192.168.233.129:/home/user/SoftwareDevelopment/acculoadiv/TIVAsitter .
+ls
+cd TIVAsitter/
+ls
+cd src
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf TIVAsitter/
+ls
+clear
+ls
+vim main.cpp
+whoami
+clear
+ls
+whoami
+exit
+alias
+zenva
+docs
+vim ~/.bashrc
+vim ~/.bash_aliases
+HOME
+hom
+home
+clear
+cd ..
+ls
+cd ALIV_Documentation/
+ls
+g++
+g++ test_file_shuffler.cpp -o test_file_shuffler
+scp test_file_shuffler.cpp user@192.168.233.129:/home/user
+ssh user@192.168.233.129
+exit
+alv
+aliv
+ls
+ssh user@192.168.233.129
+uname -a
+ssh user@192.168.233.129
+exit
+weather
+ssh user@192.168.233.129
+clear
+user
+who
+whoami
+ssh root@192.168.233.129
+ssh user@192.168.233.129
+clear
+ssh user@192.168.233.129
+ls
+clear
+ls
+ssh root@192.168.233.129
+ssh user@192.168.233.129
+clear
 pwd
+ssh user@192.168.233.129
 exit
-cd firefox
-ls
-./firefox
-./updater
-./firefox-bin
+ssh user@192.168.233.129
 exit
-cd github
-ls
-cd Scripts_BASH_Repo/
-ls
-cd testing_BBB/
-ls
-scp root@192.168.181.206:/home/root/*.txt .
-lp -o pretty print prePF_1-1.txt 
-lp -o prettyprint prePF_1-1.txt 
-./poll 3
-scp root@192.168.181.206:/home/root/*.txt .
-lp -o prettyprint postPF_1-1.txt 
-scp root@192.168.181.206:/home/root/*.txt .
-ls
-rm *.txt
-ls
-scp root@192.168.181.206:/home/root/*.txt .
-lp -o prettyprint prePF.txt
-lp -o prettyprint postPF.txt
-lp -o prettyprint pf_file.txt
-cd
-cd Conky
-ls
-cat conkysolar
-cp conkysolar conkytrop
-vim conkytrop
-ls
-cd ..
-ls
-vim .startconky
-ls Conky/
-vim .startconky
-source .startconky
-killall -10 conky
-vim .startconky
-clear
-exit
-cd github
-ls
-cd Scripts_BASH_Repo/
-ls
-mkdir conky
-cd conky
-ls
-cp ~/.startconky
-cp ~/.startconky .
-cp ~/Conky/* .
-ls
-cd ..
-git status
-git add conky/
-git add testing_BBB/batchmon
-c testing_BBB/
-ls
-cd testing_BBB/
-ls
-rm *.txt
-clear
-git status
-git rm ../conky/solar.gif
-clear
-git status
-git reset HEAD ../conky/solar.gif
-clear
-git status
-ls
-cd ..
-cd conky
-ls
-rm solar.gif 
-ls
-clear
-git status
-git commit -m "Added several conky files and configurations for later.  Updated batchmon script."
-git push
-ls
-mkdir test9
-cd test9
-ls
-rm *.txt
-scp root@192.168.181.206:/home/root/*.txt .
-scp root@192.168.181.206:/home/root/test9/*.txt .
-clear
-ls
-icdiff step13.txt step14.txt
-icdiff step16.txt step17.txt
-cd ..
-ls
-cd legacy_projects/
-ls
-clear
-ls
-cd microload
-ls
-grepc MTG-1286E
-grepc MTG-1286E *
-grepc 1286 *
-clear
-ls
-vim fmc_logo.h
-grepc fmc_logo *
-clear
-ls
-vim menumgr.c
-ls
-clear
-ls
-ls *.inc
-vim lcp_hrdw.inc
-clear
-ls
-grepc T6963C *
-vim t6963.h 
-vim lcd_drv.c 
-grepc lcd_auto_write *
-grepc vidbyte *
-clear
-jobs
-fg 3
-vim fcdi.h
-vim options.h
-clear
-jobs
-fg 4
-grepc setpixel *
-vim fcdi_drv.c
-clear
-ls
-ls fcd*
-vim fcdi_lib.h
-clear
-ls
-sudo kermit
-clear
-sudo kermit
-exit
-cd test9
-ls
-rm *.txt
-scp root@192.168.181.206:/home/root/test9/*.txt .
-lp -o prettyprint step*.txt
-cd
-ls
-scp root@192.168.181.206:/home/root/*.gz .
-cd test9
-ls
-lp -o prettyprint step6.txt
-lp -o prettyprint step7.txt
-lp -o prettyprint step8.txt
-lp -o prettyprint step9.txt
-lp -o prettyprint step11.txt
-lp -o prettyprint step12.txt
-lp -o prettyprint step13.txt
-lp -o prettyprint step14.txt
-lp -o prettyprint step16.txt
-lp -o prettyprint step17.txt
-lp -o prettyprint step19.txt
-icdiff step{11,12}.txt
-icdiff step{13,14}.txt
-icdiff step{16,17}.txt
-icdiff step{9,19}.txt
-exit
-ssh root@192.168.181.206
-exit
-sudo /sbin/rmmod kvm-intel
-sudo /sbin/rmmod kvm
-exit
-pgrep conky
-kill -10 3858
-kill -10 4017
-pgrep conky
-kill -9 3858
-kill -9 4017
-exit
-vim .startconky 
-source .startconky
-.startconky
-./.startconky
-ls
-clear
-source .startconky
-cat .startconky 
-clear
-exit
-ls
-cd test9
-ls
-rm *.txt
-ls
-scp root@192.168.181.206:/home/root/*.txt .
-clear
-icdiff
-clear
-ls
-icdiff step{7,8}.txt
-cat step9.txt 
-ls
-cat step19.txt
-ls
-rm pf_file.txt 
-cat step6.txt 
-lp -o prettyprint step6.txt
-lp -o prettyprint step7.txt
-lp -o prettyprint step8.txt
-ls
-lp -o prettyprint step9.txt
-lp -o prettyprint step11.txt
-lp -o prettyprint step12.txt
-lp -o prettyprint step13.txt
-lp -o prettyprint step14.txt
-lp -o prettyprint step16.txt
-lp -o prettyprint step17.txt
-lp -o prettyprint step19.txt
-exit
-ls
-grep Ingress *
-clear
-grep Ingress *
-ls
+ssh user@192.168.233.129
 cd Downloads/
+./my_basic.exe 
+exit
+ls
+ssh user@192.168.233.129
+clear
+ssh user@192.168.233.129
+clear
+ssh user@192.168.233.129
+clear
+ssh user@192.168.233.129
+cd Documents/
+ls
+ls ard*
+alias
+sketch
+ls
+cd Blinks
+git status
+git clone https://github.com/Move38/DragonsLair.git
+ls
+git clone https://github.com/Move38/Dispel.git
+git clone https://github.com/Move38/Darkball.git
+git clone https://github.com/Move38/Fidget.git
+git clone https://github.com/Move38/SpeedRacer.git
+git clone https://github.com/Move38/Bandits.git
+git clone https://github.com/Move38/Hexenwood.git
+git clone https://github.com/Move38/Hexenwood-AI.git
+git clone https://github.com/Move38/TipToeVolcano.git
+git clone https://github.com/Move38/Thalassophobia.git
+git clone https://github.com/Move38/GhostHunters.git
+git clone https://github.com/Move38/Alchematch.git
+git clone https://github.com/Move38/Blanks.git
+git clone https://github.com/Move38/Dynamo.git
+git clone https://github.com/Move38/BattleBallons.git
+git clone https://github.com/Move38/BattleBalloons.git
+git clone https://github.com/Move38/Paintbrush.git
+git clone https://github.com/Move38/Heist.git
+git clone https://github.com/Move38/Widgets.git
+git clone https://github.com/Move38/GroupTherapy.git
+git clone https://github.com/Move38/Reactor.git
+git clone https://github.com/Move38/Pirates-Lasers.git
+git clone https://github.com/Move38/Raid.git
+git clone https://github.com/Move38/Tsunami.git
+git clone https://github.com/Move38/Astro.git
+git clone https://github.com/Move38/Mortals.git
+git clone https://github.com/Move38/Berry.git
+git clone https://github.com/Move38/Puzzle101.git
+git clone https://github.com/Move38/BombBrigade.git
+git clone https://github.com/Move38/Fracture.git
+git clone https://github.com/Move38/SketchADay.git
+git clone https://github.com/Move38/Honey.git
+git clone https://github.com/Move38/WHAM.git
+git clone https://github.com/Move38/ZenFlow.git
+git status
+cd ..
+ls
+git status
+git add Blinks/
+git status
+git commit -m "Adding in Blinks source code for Blinks Game System."
+git push
+ssh root@192.168.233.129
+ssh user@192.168.233.129
+ls
+cd Blinks
+ls
+clear
+ls
+cd Alchematch/
+ls
+vim Alchematch.ino 
+cd
+clea
+clear
+ssh user@192.168.233.129
+exit
+ssh VM
+ls
+cd Documents/projects/
+cd legacyproducts.hre/
+ls
+clear
+ls
+cd source
+ls
+grepc pulse *
+vim general.h 
+grepc AS5040 *
+vim prg_encoder.c
+vim out_cmp.c
+fg
+clear
+ls
+cd
+ls
+ssh VM
+ping 192.168.233.129
+exit
+ssh VM
+ping 192.168.233.129
+ping 192.168.233.133
+cd .ssh
+ls
+vim config
+ssh VM
+ping 192.168.76.74
+cd
+clear
+ping 192.168.76.74
+exit
+ssh VM
+clear
+ls
+ssh VM
+LOCAL
+ls
+alias
+AL3REM2
+ping 192.168.181.56
+ssh VM
+ping 192.168.76.70
+ssh VM
+exit
+ls
+clear
+ls
+cat hello.z80
+ls
+./z80
+./z80asm
+z80
+cat hello.lst
+ls
+cd bin
+ls
+cd ..
+./Scanner.exe
+cd bin
+./Scanner.exe 
+cd ..
+find . -name z80
+cd Documents/HOME/8bit
+ls
+cd z80
+ls
+cd z80prog
 ls
 cd ..
 ls
-cd WWW
+cd ..
 ls
-cd www
+clear
 ls
 cd ..
 ls
+cd 4bit
+ls
+cd ..
+ls
+cd transer
+ls
+cd transfer
+ls
+cd ..
+ls
+clear
+ls
+cd ..
+ls
+exit
+ls
+ssh VM
+cd Documents/HOME/guizero/
+ls
+python3 meme.py
+python meme.py
+python helloworld.py
+python wanted.py
+ls
+cd assets
+ls
+cd ..
+ls
+clear
+ls
+cat wanted.py
+cat meme.py
+cat wanted.py
+vim wanted.py
+exit
+ssh VM
+scp user@192.168.233.132:/user/.ssh/id_rsa.pub vm_key.pub
+vim .ssh/config 
+scp user@192.168.233.133:/user/.ssh/id_rsa.pub vm_key.pub
+ls -lA
+cat id_rsa.pub
+cp id_rsa.pub windows.pub
+ls *.pub
+find / -name id_rsa.pub
+ls
+clear
+ls *.pub
+ssh ec2-user@3.214.82.213
+ls
+ls *.pub
+scp user@192.168.233.133:/user/.ssh/id_rsa.pub vm.pub
+ssh VM
+scp user@192.168.233.133:/home/user/.ssh/id_rsa.pub vm.pub
+exit
+ssh ec2-user@3.214.82.213
+ssh VM
+vim .ssh/config
+ssh AWS
+ssh VM
+cd .ssh
+ls
+cat config
+scp config user@192.168.233.133:/home/user/.ssh
+ssh VM
+cd
+ssh VM
+scp user@192.168.233.133:/home/user/report* .
+ssh VM
+clear
+ls
+ssh VM
+scp user@192.168.233.133:/home/user/report * .
+ls
+scp user@192.168.233.133:/home/user/report_*.txt .
+cd
+ls
+rm report_1*
+ls
+rm 2prd*
+ls
+cat case_examples.txt 
+rm case_examples.txt 
+ls
+rm connection.yml 
+ls
+rm hello*
+ls
+rm *.yml
+ls
+cat weather.txt
+vim weather.txt
+ssh VM
+clear
+cd Documents
+grepc AICB *
+ssh VM
+ls aicb
+ls aicb*
+scp aicb.cpp user@192.168.233.133:/home/user
+ssh VM
+clear
+ls
+ssh VM
+clear
+ssh VM
+clear
+ls
+cd Documents/projects/
+ls
+git clone 
+git clone git@git.assembla.com:technipfmc/legacyproducts.metermate.git
+ls
+cd legacyproducts.metermate/
+ls
+git status
+git add *
+git status
+git commit -m "Initial commit with C# source code from Paul Zebrowski."
+git status
+git branch --unset-upstream
+git status
+git push
+git status
+clear
+ls
+clear
+git branch
+git push -u origin master
+clear
+git checkout update_engineering
+git checkout -b update_engineering
+ls
+cd /d/
+ls
+cd Files
+ls
+cd DM
+ls
+clear
+ls
+vim DM_Screen_HB_tables.txt 
+fg
+cat DM_Screen_HB_tables.txt 
+clear
+ssh VM
+cd
+ssh VM
+ls
+cat blink.txt
+rm blink.txt
+ls
+clear
+ls
+cat gitignore_example 
+clear
+ls
+cat _viminfo 
+ls
+cat C
+rm C
+ls
+cat weather.txt 
+curl wttr.in/Erie
+clear
+ping www.google.com
+curl http://wttr.in/Erie
+clear
+curl
+curl wttr.in
+curl wttr.in/Erie
+clear
+ssh VM
+cd Documents
+ls
+vim setup_BBB 
+clear
+ls
+clear
+cd projects
+find . -name Manual_Interface.Designer.vb
+cd other_repos/
+ls
+cd HRE\ Comm\ Tool/
+ls
+git status
+vim HRE\ Comm\ Tool.sln
+ipconfig /all
+clear
+cd /d/
+ls
+cd Files
+cd DM
+ls
+cd dtrpg-2022-06-28_11-20am
+ls
+scp Encounter-Building-Oracle-Less-Ink-PNP-front-only.pdf user@192.168.233.133:/home/user/Documents
+ssh VM
+cd
+ssh VM
+exit
+ssh VM
+clear
+ls
+cd Documents/projects
+ls
+cd other_repos/
+ls
+cd MeterMate-all_flavors/
+ls
+grep -ihHnr "C:\\TEMP" *
+grep -ihHnr "C:\\TEMP" *.c
+cd EngMeterMAte/
+ls
+cd ..
+ls
+clear
+ls
+cd EngineeringMateCode/
+ls
+grep "C:\\" *
+grep "Temp" *
+grep -ihHnr "Temp" *
+grep -ihHnr "TEMP" *
+clear
+ssh VM
+alias
+metermate
+ls
+git status
+cat .gitignore
+ls .git
+cat .git/info/exclude
+git ls-files --others --exclude-from=.git/info/exclude
+git satus
+clear
+git status
+clear
+ls
+clear
+ls
+git status
+cat .gitignore
+cat .git/info/exclude
+notepad .git/info/exclude
+git status
+history
+history | grep "git rm"
+clear
+git status
+git rm -r --cached EngineeringMateCode/obj/
+git status
+git rm -r --cached EngineeringMateCode/bin/
+clear
+git status
+git commit -m "Removing obj files from Debug/Release builds...didn't need to be git tracked..."
+git push
+clear
+git status
+cd /u/
+ls
+cd FAMILY/
+ls
+cd JASPER/
+ls
+cd Identification\ Records/
+ls
+scp Jasper_* user@192.168.233.133:/home/user/Documents/FAMILY
+cd ../..
+ls
+cd RUBY
+ls
+cd Identification\ Records/
+ls
+clear
+ls
+scp Ruby_* user@192.168.233.133:/home/user/Documents/FAMILY
+cd ../..
+cd PEARL/
+ls
+cd Identification\ Records/
+ls
+scp Pearl_* user@192.168.233.133:/home/user/Documents/FAMILY
+exit
+ls
+ssh VM
+exit
+ssh VM
+exit
+ssh VM
+clear
+find . -name character_rolls.py
+cd Documents/
+cd Scr
+cd Scripts_BASH_Repo/
+ls
+cd rpg
+ls
+cd python
+ls
+clear
+ls
+cd rpg
+ls
+clear
+ls
+python oracle_ask_question.py 
+python 1-ruins.py 
+clear
+ls
+python 20_room_dungeon_generator.py 
+clear
+ls
+python 60_random_traps.py 
+vim 60_random_traps.py 
+clear
+ls
+vim berserker_sidekick.py 
+clear
+ls
+pyton sidekick_archer.py 
+python sidekick_archer.py 
+vim sidekick_archer.py 
+clear
+ls
+vim character_rolls.py 
+python character_rolls.py 
+fg
+clear
+ls
+python 'BX_Level01_ Character_Builder.py' 
+vim 'BX_Level01_ Character_Builder.py' 
 clar
 clear
 ls
-cd bkup
-ls
-cd ..
+vim boss_mechanics.py 
+vim kobold.p
+vim kobold.py
 clear
 ls
-cd Dropbox/
+python random_geomorph_generator.py 
+vim random_geomorph_generator.py 
+pwd
+fg
 ls
-cd Programming/
+fg
+vim une.py 
+python une.py 
 ls
-cd projects/
+clear
 ls
-cd ..
+cat remains.py 
+clear
 ls
-cd ..
+python 100_random_room_descriptions.py 
+exit
+ssh VM
+cd Downloads/HS
 ls
-cd ..
-ls
-cd stuff
-ls
-cd ..
-ls
-grepc ingress *
-grepc portal *
-ls
-cd Documents/
-ls
-ls *.csv
-cd ..
-cd Do
-cd Documents/
-ls *.xl*
-cd ..
-clear
-find ~ -name *.xls
-t
-cd bin
-grepc dropbox *
-ls
-tup
-tdn
-t
-t do 29
-clear
-t
-t do 7
-t
-t do 19
-clear
-t
-t do 25
-t do 4
-clear
-t
-t do 24
-clear
-t
-t del 13
-clear
-t
-t do 23
-t do 20
-t do 22
-t
-clear
-t
-t do 18
-t
-t do 17
-clear
-t
-t del 05
-t
-t del 4
-clear
-t
-t do 13
-clear
-t
-t do 14
-t
-t do 14
-clear
-t
-t repri 10 D
-t pri 10 D
-t
-t del 9
-t
-clear
-t
-t do 2
-t
-t do 5
-t
-t depri 4
-clear
-t
-t depri 3
-t
-t depri 10
-t
-t depri 5
-clear
-t
-t depri 2
-t depri 9
-t depri 6
-t depri 8
-t
-tup
-clear
-t
-t pri 3 S
-t
-t pri 4 S
-t
-clear
-t
-t pri 10 S
-t pri 8 S
-t
-t pri 2 C
-clear
-t
-t pri 9 S
-t pri 6 B
-t
-t pri 5 B
-clear
-t
-tup
-ls
-du .
-du . -h
-cd build
-ls
-cd pandas
-ls
-cd doc
-ls
-cat README.rst 
+scp EE*.pdf user@192.168.233.133:/home/user/Downloads
+scp UE*.pdf user@192.168.233.133:/home/user/Downloads
+aliv
+inj
 cd ..
 ls
-cd ..
-ls
-du bkup
-du .
 clear
-t add "Call in Rx for CVS Pharmacy @errands @phone"
-t
-t pri 11 A
-t
-t add "Pick up OneTouch Ultra 2 meter at Walmart @errands"
-t pri 12 B
-t
-cd ..
-scp root@192.168.181.206:/home/root/save_mtr_fac.txt .
-lp -o prettyprint save_mtr_fac.txt 
-resister code
-clear
-t
-t do 11
-t add "Pick up Rx at CVS @errands"
-t pri 12 A
-t
-tup
-clear
-t
-t do 12
-clear
-t
-t pri 11 A
-clear
-t
-t pri 7 A
-t
-t listproj
-t ls @home
-clear
-t
-:
-cd /dev
-ls
-ls tty*
-cd ..
-vim .mykermrc
+ssh VM
 cd
-vim .mykermrc 
-sudo kermit
-vim .mykermrc 
+clear
+ls
+cd /d/
+ls
+cd DM
+ls
+cd ../5E_DnD/
+ls
+scp dysons-delve-* user@192.168.233.133:/home/user/Downloads
+ssh VM
 exit
-wget https://rcn-ee.com/rootfs/bb.org/release/2015-11-03/console/BBB-eMMC-flasher-debian-7.9-console-armhf-2015-11-03-2gb.img.xz
-wget --no-check-certificate https://rcn-ee.com/rootfs/bb.org/release/2015-11-03/console/BBB-eMMC-flasher-debian-7.9-console-armhf-2015-11-03-2gb.img.xz
-cd VM
+ssh VM
+cd Documents
 ls
-xz -d bone-debian-8.4-lxqt-4gb-armhf-2016-05-13-4gb.img.xz 
+scp animals.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+history
+cd HS
 ls
-clear
+cd ../Downloads/HS
 ls
-mount
-clear
-ls
-mount
-sudo dd if=./bone-debian-8.4-lxqt-4gb-armhf-2016-05-13-4gb.img  of=/dev/sdb
-mount
-cd /media/rootfs__
-ls
-cd boot
-ls
-sudo vim uEnv.txt 
-cd
-ls
-clear
-ls /dev/tty*
-vim .mykermrc 
-sudo kermit
-exit
-ls /dev/tty*
-sudo kermit
-clear
-ls
-clear
-moutn
-mount
-cd /media/rootfs__
-ls
-cd boot
-ls
-clear
-ls
-sudo vim uEnv.txt 
-cd /opt/scripts
-cd /
-cd /media/rootfs__
-ls
-cd etc
-ls
-cd ../boot
-ls
-cat uEnv.txt 
-cd
-ls /dev/tty*
-sudo kermit
-clear
-ls /dev/tty*
-sudo kermit
-cd /media/rootfs__
-cd boot
-ls
-sudo uEnv.txt 
-sudo vim uEnv.txt 
-exit
-cd pseudo/python/
-ls
-cd ..
-ls *.py
-cd ..
-find . -name heatmap.py
-cd github/Scripts_BASH_Repo/
-ls
-cd bin
-ls
-ls *.py
-ssh debian@192.168.181.90
-ping 192.168.181.90
-ping 192.168.181.76
-ping 192.168.7.2
-ssh debian@192.168.7.2
-cd ..
-cd .git
-ls
-cat config
-ssvnc --help
-bbbIPforward.sh 
-vim bin/bbbIPforward.sh 
-bbbIPforward.sh 
-cd VM
-ls
-cd bin
-ls
-clear
-ls
-vim bbbIPforward.sh 
-./bbbIPforward.sh 
-fg
-./bbbIPforward.sh 
-vim bbbIPforward.sh 
-./bbbIPforward.sh 
-clear
-ssvnc
-ssh ubuntu@192.168.180.76
-exit
-ssh ubuntu@192.168.7.2
-ls /dev/tty*
-sudo kermit
-mount
-cd VM
-ls
-history | grep dd
-sudo dd if=./BBB_Ubuntu14.04_SDR-KD0CQ_v1.img of=/dev/sdb
-exit
-vncviewer
-sudo apt-get instal xtightvncviewer
-sudo apt-get install xtightvncviewer
-ssvnc
-ssvnc_cmd -ssh ubuntu@192.168.7.2:0 -noraiseonbeep -encodings 'copyrect tight zrle zlib hextile'
-ssvnc -ssh ubuntu@192.168.7.2:0 -noraiseonbeep -encodings 'copyrect tight zrle zlib hextile'
-ssvnc
-bbbIPforward.sh 
-vim /home/local/FMCNET/allenma/bin/bbbIPforward.sh 
-bbbIPforward.sh ubuntu
-exit
-sudo kermit
-ping 192.168.7.2
-bbbIPforward.sh 
-vim +19 /home/local/FMCNET/allenma/.ssh/known_hosts
-bbbIPforward.sh 
-cat /home/local/FMCNET/allenma/bin/bbbIPforward.sh 
-ssh ubuntu@192.168.7.2
-ssh -t -L 5900:localhost:5900 192.168.7.2 'x11vnc -localhost -display :0'
-ssh -t -L 5900:localhost:5900 ubuntu@192.168.7.2 'x11vnc -localhost -display :0'
-ls /dev/tty*
-sudo kermit
-exit
-cd Downloads/
-ls
-sudo dpkg -i teamviewer_11.0.57095_i386.deb && sudo apt-get install -f
-which teamviewer
-teamviewer
-sudo apt-get install teamviewer
-clear
-exit
-sudo teamviewer
-teamviewer
-pgrep teamviewer
-killall teamviewer
-kill -9 6838
-pgrep teamviewer
-kill -9 6838
-sudo kill -9 6838
-pgrep teamviewer
-sudo kill -9 8029
-pgrep teamviewer
-sudo kill -9 8074
-pgrep teamviewer
-ps -e
-killall teamviewerd
-sudo killall teamviewerd
-ps -e
-sudo apt-get remove teamviewer
-pgrep teamviewer
-ps -e
-clear
-cd pseudo
-ls
-cd INJ
-ls
-cat inj.c
+scp EE_lesson4-5.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
 cd ..
 ls
-cat makefile
-clear
-ls
-cd AICB
-ls
-git status
-git pull
-cat aicb.cpp
-ls
-cd ..
-ls
-cat fgetc.cpp 
-clear
-ls
-cat myprog.cpp 
-vim dipole.c
-ls
-clear
-ls
-cat fast_sqrt.c 
-cat fprintf.c 
-grepc usage *
-ls
-cd INJ
-grep usage *
-cd ..
-ls
-cd LRC_Check/
-ls
-grepc usage *
-cat LRC.c
-cd ..
-mkdir dipole
-cp -r LRC_Check/ dipole/
-cd dipole
-ls
-cp LRC_Check/* .
-ls
-rm -rf LRC_Check/
-ls
-rm SMIP
-rm LRC
-mv LRC.c dipole.c
-vim makefile 
-make clean
-ls
-clear
-vim dipole.c 
-make
-fg
-make
-fg
-make
-dipole
-ls
-./dipole
-./dipole 28.000 29.700
-fg
-make
-./dipole 28.000 29.700
-fg
-make
-ls
-./dipole 28.000 29.700
-fg
-make
-fg
-make
-./dipole 28.000 29.700
-fg
-./dipole
-fg
-make
-./dipole
-fg
-make
-./dipole
-fg
-make && ./dipole
-fg
-make && ./dipole
-fg
-make
-./dipole
-fg
-make
-./dipole
-fg
-make
-./dipole
-fg
-make
-./dipole
-vim dipole.c
-make
-./dipole 
-git status
-exit
-fg
-exit
-lrc
-LRC
-LRC HI
-cd pseudo/LRC
-ls
-find . -name lrc.cpp
-cd pseudo/
-find . -name lrc.cpp
-grepc LRC *
-ls
-cd AICB
-ls
-cd ..
-ls
-cd bin
-ls
-cd ..
-ls
-cd LRC_Check/
-ls
-vim LRC.c
-ls
-make
-fg
-make
-ls
-./SMIP
-./SMIP "         (Reprint)"
-./LRC "         (Reprint)"
-fg
-make
-./LRC "         (Reprint)"
-exit
-fg
-exit
-cd BBB_Scripts/
-ls
-git
-git status
-cd ..
-ls
-cd github
-ls
-cd Scripts_BASH_Repo/
-ls
-git status
-scp root@192.168.181.206:/home/root/* .
-clear
-git status
-rm README
-rm *.gz
-clear
-git status
-rm *.txt
-clear
-git status
-ls
-mv *mfac testing_BBB/
-ls
-mv *trans testing_BBB/
-mv *prove* testing_BBB/
-mv batchmon testing_BBB/
-mv clear_* testing_BBB/
-clear
-git status
-mv check_inj testing_BBB/
-mv check_recipe testing_BBB/
-git status
-clear
-git status
-rm commands.sql
-mv end_batch testing_BBB/
-mv list_alarms testing_BBB/
-mv poll testing_BBB/
-mv preset testing_BBB/
-mv pulse_count testing_BBB/
-mv push testing_BBB/
-clear
-ls
-mv start* testing_BBB/
-mv reset_pulse testing_BBB/
-ls
-mv stop testing_BBB/
-ls
-clear
-git status
-cd testing_BBB/
-clear
-git status
-git add *
-clear
-git status
-git commit -m "Added some updated BBB scripts used for testing proving, checking injector recipes, etc.
-"
-clear
-git status
-cd ..
-git status
-git push
-clear
-git status
-exit
-ssh root@192.168.181.206
-exit
-cd bin
-ls bbb*
-./bbbIPforward.sh 
-ls /dev/tty*
-cat .mykermrc 
-vim .mykermrc 
-sudo kermit
-cd github
-ls
-cd Scripts_BASH_Repo/
-ls
-mkdir BBB_SDR
-cd BBB_SDR/
-ls
-scp debian@192.168.180.75:/home/debian/history.txt .
-ls
-git status
-cd ..
-ls
-git status
-cd BBB_SDR/
-ls
-git status
-git add ./
-clear
-git status
-git commit -m "Added setup history for debian 7.8 LXDE eMMC flasher install on BeagleBone for future reference..."
-git push
-clear
-git status
-exit
-scp debian@192.168.180.75:/etc/modprobe.d/rtlsdr.conf /home/local/FMCNET/allenma/github/Scripts_BASH_Repo/BBB_SDR/
-cd github/Scripts_BASH_Repo/BBB_SDR/
-ls
-git status
-git add *
-git commit -m "Adding blacklist dvb conf for RTL-SDR device to register as an RTL-SDR instead of a DVB..."
-git status
-git push
-exit
-vim .bashrc
-clear
-source .bashrc
-ls
-cd BBB_Scripts/
-ls
-cd SQL
-ls
-cat init_5.sql
-cat prove_5.sql
-cat calc_5.sql 
-cat acc_5.sql 
-cat acc_7.sql 
-cat acc_6.sql 
-clear
-ls
-cat init_5.sql 
-clear
-ls
-cp init_5.sql init_prove
-vim init_prove 
-ls
-mv init_prove ../
-ls
-cd ..
-ls
-cat end_trans
-vim init_prove
-cp init_prove start_prove
-cp init_prove calc_mfac
-cp init_prove acc_mfac
-cp init_prove rej_mfac
-cp init_prove reset_pulse
-clear
-ls
-vim start_prove
-vim calc_mfac 
-vim acc_mfac 
-vim start_prove 
-vim calc_mfac 
-vim acc_mfac 
-vim rej_mfac 
-vim reset_pulse 
-clear
-ls
-scp init_prove root@192.168.181.206:/home/root
-scp start_prove root@192.168.181.206:/home/root
-scp *_mfac root@192.168.181.206:/home/root
-scp reset_pulse root@192.168.181.206:/home/root
-ssh root@192.168.181.206
-cd ..
-ls
-bbbIPforward.sh 
-vim +23 /home/local/FMCNET/allenma/.ssh/known_hosts
-clear
-bbbIPforward.sh 
-vim /home/local/FMCNET/allenma/bin/bbbIPforward.sh 
-bbbIPforward.sh debian
-vim /home/local/FMCNET/allenma/bin/bbbIPforward.sh 
-bbbIPforward.sh debian
-vim /home/local/FMCNET/allenma/bin/bbbIPforward.sh 
-bbbIPforward.sh debian
-vim /home/local/FMCNET/allenma/bin/bbbIPforward.sh 
-bbbIPforward.sh debian
-ssh debian@192.168.7.2
-ls /dev/tty*
-sudo kermit
-clear
-ls
-cd Download
-ls
-cd Downloads/
-ls
-cd Radio/
-ls
-mkdir SDR_CSSU
-cd SDR_CSSU/
-clear
-wget --mirror --adjust-extension --page-requisites --execute robots=off --wait=30 --random-wait --convert-links --user-agent=Mozilla https://www.csun.edu/~skatz/katzpage/sdr_project
-wget --mirror --adjust-extension --page-requisites --execute robots=off --wait=30 --random-wait --convert-links --user-agent=Mozilla --no-check-certificate https://www.csun.edu/~skatz/katzpage/sdr_project
-cd
-ls /dev/tty*
-cat .mykermrc 
-sudo kermit
-exit
-ls
-cd github
-ls
-cd Scripts_BASH_Repo/
-ls
-git status
-cd testing_BBB/
-ls
-scp root@192.168.181.206:/home/root/* .
-clear
-ls
-rm *.gz
-ls
-rm *.sql
-rm *.txt
-rm README 
-clear
-ls
-git status
-git add *
-clear
-git status
-git commit -m "New digital input commands, two new test scripts for SDS's questions, two new scripts to check I/O and revision status."
-git push
-clear
-git status
-git pull
-git push
-clear
-git status
-exit
-cd INO
-ls
-cd ino
-ls
-cd projects
-ls
-cd ../..
-ls
-cd pseudo/
-ls
-cd INO
-ls
-cd ino
-ls
-cd projects
-ls
-clear
-ls
-cd ..
-ls
-cd libs
-ls
-cd ..
-cd swr
-ls
-cd projects/swr
-ls
-vim src/swr.ino
-cd ..
-ls
-clear
-ls
-git status
-git add *
-git commit -m "Added DDS_sweeper.ino in examples.  Added ASCII pinouts of Uno, Mega, and Nano."
-cat ../examples/uno_pinout 
-cat ../examples/nano_pinout 
-cat ../examples/mega_pinout 
-ls
-ino init -t empty
-mkdir KC3EYS_DDS_VFO
-cd KC3EYS_DDS_VFO/
-ls
-ino init -t empty
-ls
-cd src
-ls
-rm sketch.ino 
-cd ..
-ls
-cd lcd
-ls
-cd src
-ls
-vim lcd.ino
-ino build
-cd ..
-ino build
-ino upload
-vim src/lcd.ino 
-clear
-cd ../..
-ls
-cd projects/KC3EYS_DDS_VFO/
-jobs
-tree
-cd src
-mv AD9850_DDS_KC3EYS.ino KC3EYS_DDS_VFO.ino
-ls
-cd ../..
-tree
-tree lcd
-cd KC3EYS_DDS_VFO/
-ls
-clear
-ls
-cd src
-cd ..
-vim src/KC3EYS_DDS_VFO.ino 
-clear
-git status
-git checkout -- ../lcd/src/lcd.ino
-git status
-git add *
-git status
-git add ../../examples/*
-clear
-git status
-git commit -m "Adding in KC3EYS_DDS_VFO project.  Added UNO, MEGA, and NANO pinouts.  Added DDS_Sweeper example."
-clear
-git statu
-git status
-git push
-jobs
-fg
-grepc setCursor *
+ls G_standie.pdf 
+scp G_standie.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
 cd ../
-cd ..
-grepc setCursor *
-cd projects/magic_morse
-tree
-cd src
+cd Documents/ALIV_Images/
 ls
-cp UtilFuncts.ino ../../KC3EYS_DDS_VFO/src/
-cd ..
-cd KC3EYS_DDS_VFO/
-jobs
-fg
-ino build
-tree
-vim lib/SoftwareSerial/SoftwareSerial.cpp
-jobs
-fg 
-fg 1
-grepc setCursor *
-vim src/UtilFuncts.ino 
-mv src/UtilFuncts.ino /home/local/FMCNET/allenma/pseudo/ino/examples/
-ls
-tree
-ino build
-ino clean
-ino build
-jobs
-fg 1
-ino clean && ino build
-fg
-ino build
-fg
-ino build
-fg
-ino clean && ino build
-cd libs
-ls
-clear
-jobs
-fg 2
-fg 1
-vim lib/SoftwareSerial/SoftwareSerial.cpp
-vim lib/SoftwareSerial/SoftwareSerial.h
-clear
-jobs
-fg 2
-clear
-git status
-clear
-git status
-git add *
-git status
-cd ../../examples
-clear
-git status
-git add *
-clear
-git status
-git rm AD9850_DDS_KC3EYS.ino
-git status
-git rm DDS_sweeper.ino
-git rm TFT/
-git rm -rf TFT/
-clear
-git status
-git rm draw*
-git status
-git rm tft*
-git status
-git rm paint/
-git rm -rf paint/
-git status
-git rm -rf shapes/
-clear
-git status
-git rm -rf text/
-git status
-git add ../libs/LiquidCrystal/
-git status
-git commit -m "Moved example files around.  Added LiquidCrystal library for reference.  Updated SoftwareSerial library for KC3EYS__DDS_VFO project to enable setCursor(row,col)."
-git status
-git push
-clear
-git status
-cd ..
-ls
-cd projects/KC3EYS_DDS_VFO/
-ls
-jobs
-fg
-ino build
-ino clean
-ino build
-vim lib/SoftwareSerial/SoftwareSerial.cpp
-vim lib/SoftwareSerial/SoftwareSerial.h
-ino clean && ino build
-ino upload
-jobs
-fg 2
-fg 3
-clear
-fg
-git status
-cd ../..
-ls
-cd libs
-git status
-git add *
-git status
-cd ../projects/
-git status
-git add *
-git status
-git commit -m "Added modifications to include new setCursor function for the Parallax Serial LCD screen.  Updated SoftwareSerial libs."
-git push
-cd /home/local/FMCNET/allenma/Downloads/
-ls
-mkdir DSP
-cd DSP
-wget -b -r -A.pdf http://www.dspguide.com/
-tail -f wget-log
-ls
-cd www.dspguide.com/
-ls
-cd ch1
-ls
-cd ..
-ls
-cd ch19
-ls
-cd ..
-tail -f wget-log
-tree
-cd ..
-rm -rf www.dspguide.com/
-ls
-cat wget-log 
-rm wget-log 
-ls
-echo "http://www.dspguide.com/CH[1..34].PDF" >> wget_list
-cat wget_list 
-echo http://www.dspguide.com/CH{1..34}.PDF >> wget_list
-cat wget_list 
-echo "http://www.dspguide.com/CH{1..34}.PDF\n" >> wget_list2
-cat wget_list2
-gedit wget_list
-clear
-ls
-rm -rf www.dspguide.com/
-ls
-rm wget_list2
-cat wget_list 
-wget -i wget_list 
-ls
-clear
+scp AcculoadIV-1.2.img root@192.168.181.76:/media/data/fmcti/firmware
+vim +32 /c/Users/allenma/.ssh/known_hosts 
+scp AcculoadIV-1.2.img root@192.168.181.76:/media/data/fmcti/firmware
+scp AcculoadIV*.img user@192.168.233.135:/home/user/Downloads
+ssh VM
 exit
-jobs
-fg
+ssh VM
 exit
-cd pseudo/LRC_Check/
-ls
-./LRC
-./LRC "Testing"
-./LRC "TEST"
-./LRC "HI"
+aliv
 cd
-cd .gvfs/
+clear
+ssh VM
+exit
+ssh VM
+exit
+cd Downloads
 ls
+clear
+ls
+clear
+ls
+ssh VM
+exit
+ssh VM
+aliv
+pwd
+cd ..
+ls
+cd acculoadiv.AccuMate/
+clear
+git pull
+git branch
+git checkout core_arch
+git pusll
+git pull
+ls
+exit
+aliv
+cd ..
+ls
+cd acculoadiv.AccuMate/
+ls
+git status
+git pull
+git checkout -b VS2022
+ls
+git checkout core_arch
+git pull
+git hist
+clear
+git branch
+git checkout VS2022
 cd
-cd pseudo/python/
+cd Downloads/
+ping 192.168.233.135
+scp One-Pot\ Turkey\ Taco\ Pasta.pdf user@192.168.233.135:/home/user/Downloads
+scp Bacon\ and\ Pumpkin\ Pasta.pdf user@192.168.233.135:/home/user/Downloads
+scp Easy\ Ground\ Turkey\ Broccoli\ Pasta\ Dinner.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+scp Ground\ Turkey\ Alfredo\ Casserole.pdf user@192.168.233.135:/home/user/Downloads
+lp
+ssh VM
+scp MetLife\ Dental\ Card.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+aliv
+cd ..
 ls
-vim serial_stress.py 
-python serial_stress.py 
-sudo python serial_stress.py 
-cd pseudo/AICB/
+cd acculoadiv.AccuMate/
 ls
-cd ../LRC_Check/
+clear
+git status
+git hist
+git diff fa29270
+git diff fa29270 --name-only
+clear
+ssh VM
+eit
+exit
+aliv
+cd ..
 ls
-./LRC
-./LRC "          "
+cd acculoadiv.AccuMate/
+ls
+git diff
+clear
+git status
+aliv
+git pull
+git hist
 clear
 cd
-scp user@10.0.2.15:/home/user/hist.txt .
-scp root@192.168.181.206:/home/root/hist.txt .
+cd Downloads
+aliv
+cd ..
+cd acculoadiv.AccuMate/
+cd docs
 ls
-lp -o prettyprint hist.txt
+ssh VM
+scp TFMC-AccuMateDefaultDatabaseUpdating-060922-1801.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
 clear
-ls /dev
-sudo kermit
-ls /dev/tty*
-cat .mykermrc 
-sudo kermit
-ls
+git status
 clear
-cd pseudo/python/
-ls
-sudo ./ptb_client.py 
-vim ptb_client.py 
-sudo ./ptb_client.py 
-sudo ./ptb_client.py PuTTY
-PuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
-exit
-jobs
-fg
-exit
-cd pseudo/python/
-ls
-vim serial_example.py 
-ls
-vim ptb.py
-sudo ./ptb.py
-jobs
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-jobs
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
+ssh VM
+hex2dec
+./hex2dec
+git status
+git diff
+clear
+ssh VM
+scp user@192.168.233.135:/home/user/DefaultAL4.dat
+clear
+pwd
 cd ..
 ls
-cd LRC_Check/
+cd Release/
 ls
-vim LRC.c
-make
-./LRC "EPSON RECEIPT"
-./LRC "PSON RECEIPT"
-vim LRC.c 
-make
-./LRC "EPSON RECEIPT"
-./LRC "PSON RECEIPT"
+rm Default*
+ls
+rm AL4ConfigFile1.AL4 
+ls
+scp user@192.168.233.135:/home/user/DefaultAL4.dat .
+ls
+git status
+clear
+cd
+clear
+ls
+clear
+ssh VM
+aliv
+cd ..
+cd acculoadiv.AccuMate/
+alias
+vim ~/.bashrc
+fg
+source ~/.bashrc
+aliv
+mate
+clear
+ls
+git status
+clear
+ls
+git status
+cd AccuMate
 ls
 clear
 ls
-cd ..
-cd ino
-ls
-cd projects
-ls
-cd layout
-ls
-cd src
-vim layout.ino 
-cd ../..
-ls
-cd meter
-ls
-cd src
-ls
-vim meter.ino 
 clear
-cd ../..
-ls
+git status
+git diff AccuMate.rc
+git add AccuMate.rc
+git status
+clear
+git status
+git diff AccuMateDoc.cpp
+clear
+git diff AccuMateDoc.cpp
+git checkout -- AccuMateDoc.cpp
+git diff AccuMateDoc.cpp
+git add AccuMateDoc.cpp
+clear
+git status
+git diff TransDoc.cpp
+cp TransDoc.cpp ~
+git diff TransDoc.cpp
+git add TransDoc.cpp
+clear
+git status
+git diff Trans_vw.cpp
+clear
+git status
+git rm DefaultAL4.dat
+clear
+git status
+clear
+git status
+git diff Trans_vw.cpp
+git checkout -- Trans_vw.cpp
+git status
+clear
+git status
+git add DefaultAL4.dat 
+git status
+git add ../Docs/TFMC-AccuMateDefaultDatabaseUpdating-060922-1801.pdf 
+clear
+git status
+git commit -m "Updated revision to 1.4.  Added DefaultAL4.dat file based off 1.4RC2 firmware build.  Added SDS documentation for generating DefaultAL4.dat (also added to repo wiki)."
+clear
+git status
+git push -u origin 1.4_update
+git status
+git pull
 cd ..
-ls
-cd ino
-ls -la
+ls -lA
 cd .git
 ls
 vim config
+cd info
+ls
+vim exclude
+mate
+ls
 clear
-cd
+git status
+cd db
 ls
-cd pseudo/INO
+cd ..
+rm -rf db
 ls
-cd pseudo/
-cd INO
+clear
+git status
+vim .gitignore
+git status
+vim .gitignore
+clear
+git status
+git add .gitignore
+git commit -m "Updating .gitignore to ignore iterim build logs from Visual Studio."
+git push
+clear
+git status
+git rm db/AL4ConfigFile2.AL4
+git status
+git commit -m "Removing config files not needed for .git tracking."
+clear
+git status
+cd .vs
 ls
-cd ino
+cd ..
+clear
+ls
+clear
+git status
+git push
+ls
+cd Debug/
+ls
+vim Debug1-4.al4lang 
+xxhd Debug1-4.al4lang 
+hexdump -C Debug1-4.al4lang 
+clear
+ls
+jobs
+git status
+git hist
+git hist | grep translate
+git hist | grep translation
+git hist
+clear
+git hist
+clear
+ls
+cd ../Release/
+ls
+sqlit3
+sqlite3
+scp updateAllLiterals.txt user@192.168.233.135:/home/user
+scp test1-3.al4lang user@192.168.233.135:/home/user
+ssh VM
+scp user@192.168.233.135:/home/user/updated1-3.al4lang .
+ls
+colordiff
+cdfif
+clear
+ls
+cdiff 
+diff test1-3.al4lang updated1-3.al4lang 
+ssh VM
+ls
+scp test1-3.al4lang user@192.168.233.135:/home/user
+ssh VM
+scp user@192.168.233.135:/home/user/updated1-3.al4lang .
+clear
+ls
+scp test1-4.al4lang user@192.168.233.135:/home/user
+ssh VM
+scp user@192.168.233.135:/home/user/updated1-4.al4lang
+scp user@192.168.233.135:/home/user/updated1-4.al4lang .
+ls
+tail updateAllLiterals.txt 
+vim updateAllLiterals.txt 
+ssh VM
+clear
+ls
+scp test1-3.al4lang user@192.168.233.135:/home/user/
+ssh VM
+scp user@192.168.233.135:/home/user/translate/updated1-3.al4lang .
+ls
+ssh VM
+cd ../tools
+ls
+sqlite3.exe
+./sqlite3.exe
+cp ../Release/test1-3.al4lang .
+ls
+./sqlite3.exe test1-3.al4lang 
+clear
+./sqlite3.exe -line test1-3.al4lang 
+ls
+clear
+sl
+ls
+scp user@192.168.233.135:/home/user/translate/PLEASEMAKEUPPER .
+ls
+cp test1-3.al4lang BIG1-3.al4lang
+./sqlite3.exe BIG1-3.al4lang < PLEASEMAKEUPPER
+./sqlite3.exe BIG1-3.al4lang 
+clear
+git status
+ssh VM
+scp user@192.168.233.135:/home/user/Scripts_BASH_Repo/testing_BBB/clear_inj .
 ls
 git status
 clear
+cd ..
+ls
+cd Internal-Software-Tools.automated_testing/
+git pull
+git checkout master
+clear
+git checkout master
+git stash
+git checkout master
 git pull
 clear
+ls
+git status
+git branch
+clear
+git branch -all
+git branch --all
+git hist master
+clear
+git branch
+git branch --all
+clear
+git list
+git checkout -b develop
+git merge master
+clear
+git status
+git push -u origin develop
+git checkout -b lab_automation
+git hist
+clear
+git hist
+clear
+git branch --all
+git checkout APIdev
+git hist
 git pull
-cd projects
-ls
-cd meter
-ls
-vim src/meter.ino 
+git checkout develop
 git pull
+git hist
+clear
+git branch
+mate
+ls
+cd Release
+ls
+../sqlite3.exe 1-3.al4lang 
+cd ../tools
+ls
+./sqlite3.exe ../Release/1-3.al4lang
+./sqlite3.exe -line ../Release/1-3.al4lang
+ls
 cd ..
+cd Release
 ls
-cd meter
+git config
+git config --global
+cd ../tools
 ls
-cd lib
-cp ../../../libs/TFTv2/TFTv2.* .
+clear
 ls
-mv TFTv2.* TFTv2
+ssh VM
+scp user@192.168.233.135:/home/user/clear_inj .
 ls
-cd ..
+vim clear_inj 
+./clear_inj 
+sqlite3
+./sqlite3
+fg
+./sqlite3
+fg
+./clear_inj 
+./clear_inj test1-3.al4lang 
+fg
+ls
+cat PLEASEMAKEUPPER 
+mv clear_inj upper_db
+ls
+upper_db
+./upper_db 
+cp test1-3.al4lang tester.al4lang
+ls
+sqlite3 -line tester.al4lang 
+./sqlite3 -line tester.al4lang 
+clear
+ls
+./upper_db tester.al4lang 
+./sqlite3 -line tester.al4lang 
+ls
+git status
+mv PLEASEMAKEUPPER ~
+vim upper_db 
+git status
+clear
+ls
+mv upper_db PLEASEMAKEUPPER
+ls
+rm tester.al4lang 
+cp test1-3.al4lang tester.al4lang
+./sqlite3 tester.al4lang 
+clear
+./sqlite3 -line tester.al4lang 
+clear
+pwd
+./sqlite3.exe
+ls
+./sqlite3 -line tester.al4lang 
+clear
+ls
+fg
+./PLEASEMAKEUPPER 
+./PLEASEMAKEUPPER tester.al4lang 
+./sqlite3 -line tester.al4lang 
+clear
+ls
+git status
+vim PLEASEMAKEUPPER 
+ls
+mate
+ls
+git status
+vim .gitignore
+fg
+cd .git
+ls
+cd info
+ls
+vim exclude
+mate
+clear
+git status
+git checkout -- AccuMateIVInstallerScript.iss
+git status
+clear
+git diff
+mate
+ls
+ifconfig eth0
+ifconfig
+ipconfig
+ping 192.168.76.76
+clear
+git status
+git pull
+git checkout -b ALIV-3302
+vim /d/glowforge/circular_slide_rule/FRV2067GRTHM7NS.c 
+ls
+cd /d/glowforge
+ls
+cd circular_slide_rule/
+ls
+cd
+cd Documents
+ls *.c
+scp make_svg.c user@192.168.233.135:/home/user
+make
+ls
+clear
+ls *.c
+gcc
+gcc -o svg.svg make_svg.c 
+ls *.svg
+exit
+mate
+cd tools
+ls
+cp /c/Users/allenma/Desktop/76-76.AL4 76.AL4
+ls
+./sqlite3 76.AL4
+cp /c/Users/allenma/Desktop/001.AL4 001.AL4
+clear
+ls
+cdiff 76.AL4 001.AL4
+diff 76.AL4 001.AL4 
+examdiff
+cp 001.AL4 001.sql
+cp 76.AL4 76.sql
+examdiff
+./sqlite3 76.sql .schema > schema.sql
+./sqlite3 76.sql .dump > dump.sql
+grep -vx -f schema.sql dump.sql > data.sql
+vim data.sql
+fg
+./sqlite3 -line 76.AL4
+fg
+./sqlite3 -line 76.AL4
+git branch
+git status
+./sqlite3 -line 76.AL4
+cat PLEASEMAKEUPPER 
+echo "select var_security from var_columns where var_columns_id=525;" > kfact.sql
+cat kfact.sql 
+echo ".quit" >> kfact.sql 
+./sqlite3 76.AL4 < kfact.sql 
+./sqlite3 001.AL4 < kfact.sql 
+cp /c/Users/allenma/Desktop/*.AL4 .
+./sqlite3 76.AL4 < kfact.sql 
+./sqlite3 001.AL4 < kfact.sql 
+./sqlite3 76.AL4 < kfact.sql 
+./sqlite3 76_new.AL4 < kfact.sql 
+./sqlite3 76.AL4 < kfact.sql 
+fg
+./sqlite3 -line 76.sql
+fg
+./sqlite3 76_new.AL4 < kfact.sql 
+vim kfact.sql 
+./sqlite3 76_new.AL4 < kfact.sql 
+ls -lA
+./sqlite3 76_new.AL4 < kfact.sql 
+cat kfact.sql 
+grep var_security 76_new.AL4
+grep "var_security" 76_new.AL4
+cp 76_new.AL4 76_new.sql
+grep var_security 76_new.sql
+./sqlite3 -line 76_new.sql
+ls
+./sqlite3 76_new.AL4 < kfact.sql 
+./sqlite3 -line 76_new.AL4
 jobs
 fg
 clear
-ino clean && ino build
+cd ..
+ls
+cd install
+ls
+cat AccuMate_Installer_0-12.md5sum.txt 
+md5sum Installer\ for\ AccuMate\ for\ AccuLoad\ IV\ 0.12.0.0.exe 
+clear
+cat AccuMate_Installer_0-12.md5sum.txt 
+md5sum AccuMate_Installer_0-12.md5sum.txt 
+md5sum Installer\ for\ AccuMate\ for\ AccuLoad\ IV\ 0.12.0.0.exe 
+clear
+ls
+cd ..
+ls
+git status
+git pull
+clear
+git hist
+cd 
+cd Documents
+ls GS*
+scp GS_092122.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+mate
+clear
+git hist
+git diff 45ab0cc
+git hist
+git checkout e62de92
+git hist
+clear
+git hist
+git diff 45ab0cc
+git checkout c205e88
+clear
+git branch
+git checkout 1.4_update
+git status
+git pull
+git diff 9d87682
+git diff 9d87682 --name-only
+git checkout 9d87682
+git hist
+git diff a414ac4 --name-only
+git checkout a414ac4
+git diff d86aad8 --name-only
+git diff d86aad8
+git checkout d86aad8
+git diff f2bfd4a --name-only
+git checkout f2bfd4a
+git diff e62de92 --name-only
+git checkout a414ac4
+git pull
+git status
+git hist
+cd install
+ls
+md5sum Installer\ for\ AccuMate\ for\ AccuLoad\ IV\ 1.4.exe > AccuMate_Installer_1-4.md5sum.txt
+clear
+ls
+cat AccuMate_Installer_1-4.md5sum.txt 
+md5sum Installer\ for\ AccuMate\ for\ AccuLoad\ IV\ 1.4.exe 
+cd
+cd Documents/
+ls
+clear
+scp Ying_Hum_VA3YH_Circular_SR-2.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+scp GalvROS.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+cd ALIV_Images/
+ls
+scp AcculoadIV-1.4RC2.img user@192.168.233.135:/home/user
+ssh VM
+scp user@192.168.233.135:/home/user/logfill6k.sh .
+ls
+rm *.sh
+ls
+ssh VM
+scp user@192.168.233.135:/home/user/logfill50k.sh .
 exit
-cd WWW
+fg
+clear
 ls
-cd 73
+mate
 ls
-cd 73-magazine-2000-06
+clear
+git branch
+git checkout 1.4_update
+git pull
+clear
+git hist
+pwd
 ls
-cd WWW
-cd 73/
+cd Release
 ls
-cat itemlist_1960.txt 
+git add DefaultAL4.dat
+mate
+git pull
+git hist
+cd
+cd Documents/PDF/prints
 ls
-mv 1962 1962.txt
+ssh VM
+scp *.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+mate
 ls
-mv itemlist_1960.txt 1960.txt
+clear
 ls
-wc -l 73-all.txt 
-vim 73-all.txt 
-sort 73-all.txt 
-sort 73-all.txt > 73-sorted.txt
+cd install
 ls
-rm 196*.txt
-ls
-rm 1963
-rm 1964
-ls
-jobs
-vim 73-sorted.txt 
-ls
-cat 2000-2003.txt 
-wget -r -H -nc -np -nH --cut-dirs=1 -b -A .pdf -e robots=off -l1 -i ./itemlist.txt -B 'http://archive.org/download/'
-tail wget-log
-wget -r -H -nc -np -nH --cut-dirs=1 -b -A .pdf -e robots=off -l1 -i ./2000-2003.txt -B 'http://archive.org/download/'
-tail wget-log
-jobs
-wget -r -H -nc -np -nH --cut-dirs=1 -A .pdf -e robots=off -l1 -i ./2000-2003.txt -B 'http://archive.org/download/'
-ls
-find . -name *.pdf
 mkdir archive
-find . -name *.pdf > path.txt
-cat path.txt 
-for i in $(path.txt); do cp "$i" archive/; done
-for i in ${path.txt}; do cp "$i" archive/; done
-for i in $(path.txt); do cp "$i" archive/; done
+mv *.exe archive/
+mv *.txt archive/
 ls
-for i in $(cat path.txt); do cp "$i" archive/; done
-tree archive/
-tree
+ls archive/
+git hist
+git checkout a414ac4
 ls
-tree
-vim 73-sorted.txt 
-exit
-cd WWW/73/
+md5sum.exe Installer\ for\ AccuMate\ for\ AccuLoad\ IV\ 1.4.exe 
 ls
-history | grep wget
-echo "wget -r -H -nc -np -nH --cut-dirs=1 -A .pdf -e robots=off -l1 -i ./2000-2003.txt -B 'http://archive.org/download/'">> wget-dl.sh
-echo "find . -name *.pdf > path.txt" >> wget-dl.sh 
-echo 'for i in $(cat path.txt); do cp "$i" archive/; done' >> wget-dl.sh 
-cat wget-dl.sh 
-vim wget-dl.sh 
-find . -name *_2002.pdf
-vim wget-dl.sh 
-chmod a+x wget-dl.sh
+cd archive/
 ls
-cp wget-dl.sh ~/bin
-grep "1999" 73-sorted.txt 
-grep "1999" 73-sorted.txt > downlist.txt
-cat downlist.txt 
-rm downlist.txt 
-vim /home/local/FMCNET/allenma/bin/wget-dl.sh 
-ls
-wget-dl.sh 1999
-rm -rf 73-mag*
-jobs
-vim /home/local/FMCNET/allenma/bin/wget-dl.sh 
-jobs
-fg
-tree
-wget-dl.sh 1998
-exit
-cd pseudo/python/
-ls
-vim serial_stress.py 
-chmod a+x serial_stress.py 
-./serial_stress.py 
-ls /dev/tty*
-./serial_stress.py 
-sudo ./serial_stress.py 
-jobs
-fg
-sudo ./serial_stress.py 
-jobs
-vim serial_stress.py 
-python serial.tools.list_ports
-python -m serial.tools.list_ports
-sudo apt-get install python-serial
+cat AccuMate_Installer_1-4.md5sum.txt 
+git hist
+git checkout d86aad8
+git checkout 1.4_update
+git status
 clear
-jobs
-fg
-touch ptb_client.py
-vim ptb_client.py
-chmod a+x ptb_client.py 
-sudo ptb_client.py
-sudo ./ptb_client.py 
-vim ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-ifconfig
-fg
+git hist
+git checkout 9d87682
 clear
-jobs
-fg
-clear
-ls
-./draw.py
-./hello_world.py 
-cp ptb_client.py ptb.py
-vim ptb.py 
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-fg
-sudo ./ptb.py
-vim ptb_client.py 
-sudo ./ptb_client.py 
-fg
-jobs
-fg 1
-fg
-clear
-ls serial*
-chmod a+x serial_example.py 
-sudo ./serial_example
-sudo ./serial_example.py 
-ls /dev/tty*
-ls /dev/ttyUSB*
-sudo ./serial_example.py 
-vim ptb_client.py 
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-jobs
-vim ptb_client.py 
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-sudo ./ptb_client.py 
-fg
-clear
-jobs
-clear
-ls
-cd WWW
-ls
-clear
-ls
-cd 73
-ls
-tree
-wget-dl.sh 1997
-tree
-wget-dl.sh 198
-ls
-cd archive
-ls
-du
-du -h
-exit
-sudo /sbin/rmmod kvm-intel
-sudo /sbin/rmmod kvm
-exit
-cd bin
-ls
-cat toggle
-cat outlets
-ls
-ls out*
-cat outlet
-outlet 1
-outlet 2
-outlet 3
-toggle 8
-toggle 8 0
-cat toggle
-toggle 8 OFF
-toggle 8 ON
-exit
-ls
-toggle 4 OFF
-toggle 8 OFF
-toggle 5 OFF
-toggle 6 OFF
-toggle 1 OFF
-toggle 8 ON
-toggle 5 ON
-toggle 6 ON
-toggle 1 ON
-toggle 4 ON
-clear
-ls
-cd sprague/
 ls
 cd ..
 ls
-exit
-ls /dev/tty*
-cat .mykermrc 
-sudo kermit
-vim .mykermrc 
-sudo kermit
 clear
-watch -n 1 ls /dev/ttyUSB*
-vim .mykermrc 
-sudo kermit
-clear
-sudo kermit
-scp root@192.168.181.206:/home/root/liop_bload.bin .
-ls /dev/tty*
-ssh root@192.168.181.206
-scp root@192.168.181.206:/home/root/liop_bload.bin
-scp root@192.168.181.206:/home/root/liop_bload.bin .
-putty
-watch -n 1 ls /dev/tty*
-watch -n 1 ls /dev/ttyUSB*
-ls /dev/tty*
-putty
-ls /dev/tty*
-toggle 1 OFF
-toggle 1 ON
-clear
-sudo apt-get install numpy
-sudo apt-get install scipy
-sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
-cd pseudo
 ls
-cd python
+git checkout 1.4_update
+git pull
+ls
+md5sum.exe Installer\ for\ AccuMate\ for\ AccuLoad\ IV\ 1.4.exe 
+ls archive/
+cat archive/AccuMate_Installer_1-4.md5sum.txt 
+git hist | head -n 5
+ls
+exit
+mate
+ls
+cd AccuMate
+ls
+cd pl
+ls
+cd ..
+ls
+cd res
+ls
+cd ..
+ls
+ipconfig
+ping 192.168.76.70
+git hist
+exit
+alias
+al3
+ls
+clear
+git status
+git pull
+./compile.bat diag.c
+vim diag.c
+./compile.bat diag.c
+fg
+vim +12 diag.c
+git status
+./compile.bat diag.c
+clear
+alias
+mate
+clear
 ls
 git status
-git clone https://github.com/AllenDowney/ThinkDSP
 ls
-cd ThinkDSP/
-ls
-cd book
-ls
-cd ..
-ls
-cat README.md
-clear
-l
-ls
-cd ..
-ls
-cd ThinkDSP/
-ls
-cd code
-ls
-cat thinkdsp.py
-clear
-python
-ls
-python thinkdsp.py
-sudo apt-get install python-panda
-sudo apt-get install python-pandas
-sudo apt-get install pandas
-clear
-sudo apt-get install python-pip
-sudo pip install numpy
-sudo pip install pandas
-gedit pip-log.txt &
-sudo pip update numpy
-sudo pip install numpy
-sudo apt-get install numpy
-sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
-sudo apt-get install python-pandas
-clear
-sudo apt-get install python-setuptools
-sudo easy_install pandas
-sudo easy_install numpy
-sudo pip3 install pandas
-sudo easy_install pandas
-sudo apt-get remove numpy
-sudo apt-get remove python-numpy
-sudo easy_install numpy
-clear
-sudo apt-get install python-pip
-sudo pip install numpy
-sudo pip install pandas
-sudo pip install python3
-sudo pip install pandas
-sudo pip install pytz
-sudo easy_install pandas
-clear
-cd
-ifconfig
-ls
-pwd
-cd .gvfs
-ls
-cd ..
-/usr/bin/smbclient \\\\eri1netapp2\\dept
-mount
-smbmount --help
-sudo apt-get install smbmount
-which smb
-whereis smb
-whereis --help
-clear
-smbfs
-sudo apt-get install smbfs
-clear
-pwd
-ls
+cd 
 cd Desktop/
-pwd
-cd ..
-cd sf_share
 ls
-cd VirtualBox\ VMs/
+cd %APPDATA%
+cd /c/Users/allenma/AppData
 ls
-cd Accu4\ with\ Debugger/
+cd Local
 ls
-cd Logs
+cd TechnipFMC/AccuMate
 ls
-cd ../../
-ls
-cd ..
-ls
-cd VM
-ls
-cd share
-ls
-touch hiya.txt
+sqlite3
+mate
+cd tools
 ls
 clear
 ls
-cp ~/bin .
-ls
-cp -r ~/bin .
-ls
-cd bin
-ls
-cd ..
-rm -rf bin
-ls
-ls ~/vin
-ls ~/bin
-ls ~/bin/*.sh
-color-echo.sh
-matrix.sh
+./sqlite3.exe 19216818170-saved.AL4-shm
+./sqlite3.exe 19216818170-saved.AL4-wal
+./sqlite3.exe 19216818170-saved.AL4
+clear
+./sqlite3.exe -line 19216818170-saved.AL4
+clear
+./sqlite3.exe -line 19216818170-saved.AL4
+clear
+./sqlite3.exe -line 19216818170-saved.AL4
 clear
 ls
-cat ~/bin/matrix.sh
-matrix.sh
-clear
+./sqlite3.exe -line 19216818170-saved.AL4
+ls -lA
+./sqlite3.exe 19216818170-saved.AL4-wal
 ls
-ls ~/bin/*.sh
-box
-box.sh
-clear
-ls ~/bin/*.sh
-cat ~/bin/gocmd.sh
-gocmd.sh "Xvyeron"
-gocmd.sh "Cyrillious"
-gocmd.sh "Matt Allen"
-clear
-cp ~/bin/matrix.sh .
+scp 19216818170-saved.AL4 user@192.168.233.135:/home/user
+ssh VM
 ls
-matrix.sh
-clear
-cd bin
-ls toggle*
-ls
-cat ltemp
-cat outlets
-cat outlet
-outlets
-exit
-ls
-cd Dropbox/logs
-ls
-ls -la
-clear
-ls
-ls -la
-html2csv readings-1472047704977.html 
-la
-ls -la
-sdrive
-ls
-cp /home/local/FMCNET/allenma/Dropbox/logs/data.csv .
-ls
-exit
-toggle 4 OFF && toggle 8 OFF && toggle 5 OFF && toggle 6 OFF && toggle 1 OFF && sleep 5 && toggle 8 ON && toggle 5 ON && toggle 6 ON && toggle 1 ON && toggle 4 ON
-cat ~/bin/toggle
-ls
-cd .gvfs
-ls
-cd dept\ on\ eri1netapp2/
-ls
-sdrive
-ls
-cd Reference/
-ls
-cp readings.html ~
 cd
+cd Downloads/
 ls
-cat readings.html
-cd bin
+scp diy_slide_rule.pdf user@192.168.233.135:/home/user/Downloads
+scp scales_calcs.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+cd /g/InkscapePortable/
 ls
-cat html2csv 
+cd Data
+ls
+cd settings
+ls
+cd extensions
+ls
 cd ..
-html2csv readings.html
 ls
-cat data.csv
-sdrive
-cd Reference/
+cd templates
 ls
-cp ~/data.csv .
+cd ..
+ls
+cd ..
+clear
+ls
+scp circ_slide.py user@192.168.233.135:/home/user/Downloads
+ls
+vim circ_slide.py 
+ssh VM
+cd
+exit
+al3
+ls
+clear
+./compile.bat diag.c
+vim diag.c
+./compile.bat diag.c
+fg
+./compile.bat diag.c
+cd ..
+ls
+cd ..
+ls
+cd legacyproducts.microloadnet/
+ls
+cd source
+ls
+./compile.bat diag.c
+./build.bat
+exit
+fg
+exit
+ls
+mate
+git status
+clear
+ssh root@192.168.1.76
+clear
+ls
+cd tools
+ls
+cd /d
+ls
+mount
+cd /g/
+ls
+cd InkscapePortable/
 ls
 clear
 ls
-clear
+vim circ_slide.py 
+exit
+ssh VM
 python
+clear
+python --version
+py
+mate
+git status
+git stash list
+git stash drop
+clear
+git stash
+clear
+git status
+git checkout -b ALIV-3366
+git checkout ALIV-3366
+git pull
+git merge core_arch_dev
+git pull
+clear
+git branch -a
+git stash apply
+git hist
+git checkout c1339e9
+git stash
+git checkout c1339e9
+git checkout ALIV-3366
+git stash
+git checkout ALIV-3366
+git checkout c1339e9
+git status
+clear
+git stats
+clear
+git status
+git checkout -b fix_double_quotes
+git status
+clear
+ls
+clear
+ls
+git hist
+clear
+git branch -a
+git push -u origin fix_double_quotes
+git push
+git pull
+clear
+git hist
+git checkout core_arch_dev
+git add AccuMate/AccuMateDoc.cpp 
+git commit -m "Fixed issue with saving a double-quote in a string parameter."
+git push
+clear
+git checkout core_arch_dev
+git pull
+git checkout fix_double_quotes
+git stash
+git checkout fix_double_quotes
+git stash
+git checkout fix_double_quotes
+ssh VM
+git checkout core_arch_dev
+git pull
+clear
+git hist | head
+alias
 cd
+cd Documents/HOME/InkscapePortable/
 ls
-cd pseudo/
+clear
 ls
-cd python
+vim ink_script.py 
 ls
-cd ThinkDSP/
+vim ruler_inches.py
+touch py_ruler.py
+vim py_ruler.py 
+fg
+ssh VM
+exit
+mate
+git hist
+git pull
+clear
+git branch -a
+git checkout ALIV-3339
+git merge core_arch_dev
+git status
+clear
+git status
+git push
+git status
+git push -u origin ALIV-3339
+clear
+git status
+ls -lA AccuMate/*.dat
 ls
-cd code
+ls -lA
+cd .git
 ls
+vim config
+cd info
+ls
+vim exclude
+ls
+cd ..
+ls
+cd ..
+ls
+ls -lA
+vim .gitignore
+clear
+git status
+clear
+git status
+fg
+git status
+fg
+clear
+git status
+fg
+git status
+fg
+git status
+clear
+ls
+clear
+git status
+git blame AccuMate/DefaultAL4.dat
+clear
+ls
+clear
+git status
+git diff .gitignore
+git add .gitignore
+git commit -m "Updated .gitignore to ignore intermittent SQLite3 dat files, and other test directories/files."
+git status
+clear
+git status
+git push
+git status
+git hist AccuMate/DefaultAL4.dat
+clear
+git status
+git checkout HEAD
+git status
+cd AccuMate
+ls
+clear
+ls
+ls -lA *.dat
+git status
+aliv
+clear
+git pull
+ls
+cd nextgen_database/
+ls
+cd src
+ls
+cd Accu4
+ls
+vim ShareMem.h 
+cd ..
+grepc "ShareMem.h" *
+ls
+vim ConnMgr.h 
+cd ..
+ls
+cd src
+ls
+vim DBMgr.cpp
+cd ..
+ls
+cd ..
+ls
+clear
+ls
+cd delivery
+ls
+cd src
+ls
+cd database
+ls
+vim DBAccu4.cpp
+vim db_write.cpp
+fg
+mate
+clear
+cd
+cd Downloads/
+ls *.pdf
+ls alt*.pdf
+scp altoids_template.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+cd ../Pictures/inkscape/
+ls
+scp altoid_template.pdf user@192.168.233.135:/home/user/Downloads
+ssh VM
+mate
+ls
+clear
+ssh VM
+cd /e/
+ls
+scp user@192.168.233.135:/home/user/Downloads/*.pdf .
+scp user@192.168.233.135:/home/user/Downloads/*.py .
+ssh VM
+scp user@192.168.233.135:/home/user/*.py .
+ls
+mkdir python
+mv *.py python/
+cd
+clear
+mate
+git hist
+ls
+git diff c205e88
+clear
+ls
+cd AccuMate
+ls *.dat
+scp DefaultAL4.dat user@192.168.233.135:/home/user
+ssh VM
+cd ~/Documents/ALIV_Images/
+ls
+scp AcculoadIV-1.5*.img user@192.168.233.135:/home/user/ALIV_Images
+scp AcculoadIV-1.5*.img user@192.168.233.135:/home/user/ALIV_images
+clear
+cd 
+ls
+clear
+ssh VM
+mate
+cd Accumate
+ls *.dat
+rm DefaultAL4.dat
+scp user@192.168.233.135:/home/user/ALIV_Configs/DefaultAL4.dat .
+git status
+clear
+ls
+ls -lA *.dat
+sqlite3
+ls -lA *.dat
+rm DefaultAL4.dat
+scp root@192.168.0.1:/home/root/DefaultAL4.dat .
+vim +31 /c/Users/allenma/.ssh/known_hosts
+scp root@192.168.0.1:/home/root/DefaultAL4.dat .
+ssh VM
+scp user@192.168.233.135:/home/user/ALIV_Configs/DefaultAL4.dat .
+ssh VM
+rm DefaultAL4.dat 
+scp user@192.168.233.135:/home/user/ALIV_Configs/DefaultAL4.dat .
+ls -lA DefaultAL4.dat 
+ssh VM
+scp user@192.168.233.135:/home/user/ALIV_Configs/DefaultAL4.dat .
+git status
+clear
+git status
+git diff
+git add AccuMate.rc
+git add DefaultAL4.dat
+git commit -m "Updated FILEVERSION for AccuMate to 1.5 instead of just updating the PRODUCTVERSION constant.  Updated the DefaultAL4.dat file accumate_revision in core_revisions table to 1.5."
+clear
+git status
+git push
+ls
+cd ..
+ls
+clear
+ls
+cd tools
+ls
+cd bin
+cd ..
+cat PLEASEMAKEUPPER 
+ls
+ls testing
+cp testing/BIG1-3.al4lang .
+ls
+git hist
+ls
+git blame PLEASEMAKEUPPER
+clear
+git hist | grep d86aad
+git hist
+git status
+git checkout c205e88
+git checkout HEAD
+git checkout ALIV-3339
+git pull
+git status
+mv BIG1-3.al4lang testing/
+clear
+ls
+./PLEASEMAKEUPPER 
+cat PLEASEMAKEUPPER 
+cp testing/BIG1-4* .
+ls
+ls testing
+history
+ls
+git checkout c205e88
+git checkout ALIV-3339
+git status
+ls testing
+cp ~/Documents/BIG1-4.al4lang .
+ls
+mv BIG1-4.al4lang testing/
+git status
+ls testings
+ls testing
+clear
+ls
+ls testing/BIG*
+cp testing/BIG1-4.al4lang .
+ls
+./PLEASEMAKEUPPER BIG1-4.al4lang 
+ls
+ls testing
+cp 1-4.al4lang testing/
+ls
+./PLEASEMAKEUPPER 1-4.al4lang 
+ls
+mv 1-4.al4lang BIG1-4.al4lang
+ls
+mv PLEASEMAKEUPPER PLEASEMAKEUPPER.sh
+ls
+./PLEASEMAKEUPPER.sh 
+clear
+git status
+git add PLEASEMAKEUPPER
+git status
+git add PLEASEMAKEUPPER.sh
+clear
+git status
+git commit -m "Renamed the PLEASEMAKEUPPER SQLite script to indicate it as a BASH script to be run to translate the entire file to uppercase for further testing."
+clear
+git status
+git push
+git checkout core_arch_dev
+git pull
+clear
+git hist
+find
+find | grep yocto
+cd
+find
+find | grep yocto
+cat ./Documents/Scripts_BASH_Repo/yocto_checklist.html 
+cd ./Documents/Scripts_BASH_Repo/
+pwd
+mate
+clear
+git pull
+git status
+cd
+cd Documents/ISO\ images/
+ls
+cd tc
+ls
+clear
+ls
+cd Qemu-windows-2.6.0/
+ls
+./qemu-img.exe create -f vpc tc.vhd 1G
+cd ..
+ls
+mv *.vhd .
+mv Qemu-windows-2.6.0/*.vhd .
+ls
+tree
+./Qemu-windows-2.6.0/qemu-system-i386 -L Qemu-windows-2.6.0/Bios -m 1024 -kernel vmlinuz -initrd core.gz -hda tc.vhd -append "home=sda1 opt=sda1 tce=sda1"
+du .
+clear
+history
+touch tc.sh
+ls
+./Qemu-windows-2.6.0/qemu-system-i386 -L Qemu-windows-2.6.0/Bios -m 1024 -kernel vmlinuz -initrd core.gz -hda tc.vhd -append "home=sda1 opt=sda1 tce=sda1" >> tc.sh
+vim tc.sh
+ls
+fg
+ls
+tc.sh
+./tc.sh
+ls
+fg
+./tc.sh
+vim tc.sh
+./tc.sh 
+ls
+mv tc.vhd 1G.vhd
+history
+./Qemu-windows-2.6.0/qemu-img.exe create -f qcow2 tc.qcow2 100M
+ls
+mv 1G.vhd tc.vhd
+ls
+fg
+ls
+./tc.sh
+clear
+ls -lA
+ls --help
+ls -lhA
+rm tc.vhd
+clear
+ls -lhA
+du . -h
+./tc.sh 
 exit

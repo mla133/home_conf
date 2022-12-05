@@ -1,1 +1,1 @@
-LS_COLORS=$LS_COLORS:'di=0;36:*.pdf=0;31:*.c=0;33:*.cpp=01;33:*.h=00;33:*akefile*=01;33:*.gz=0;35:*.bz2=0;35:' ; export LS_COLORS
+LS_COLORS=$LS_COLORS:'di=0;36:*.pdf=0;31:*.CFX=0;31:*.c=0;93:*.cpp=01;93:*.h=00;33:*akefile*=01;33:*.MAK=0;35:*.sh=0;32:*.bat=0;32:*.gz=0;35:*.bz2=0;35:*.ol=0;90:*.pp=0;37' ; export LS_COLORS
