@@ -1,0 +1,2 @@
+#!/bin/sh
+vim -u ~/home/home_conf/vim_setup/.vimrc "$@"
