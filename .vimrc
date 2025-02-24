@@ -22,9 +22,13 @@ hi Comment term=none ctermfg=green ctermbg=darkgray guifg=Gray
 let mapleader = ","
 nnoremap <leader>ev :vsplit $MYVIMRC<CR>
 nnoremap <leader>sv :source $MYVIMRC<CR>
+" set "tt" to jump to target under cursor's definition
 nnoremap <leader>tt <C-]>
+" set "rr" to return from jump to definition
 nnoremap <leader>rr <C-t>
+" set "fg" to drop to prompt, use fg to return from prompt
 nnoremap <leader>fg <C-z>
+" shortcut to switch window panes (use HJKL for direction)
 nnoremap <leader>ww <C-w>
 nnoremap <leader>ff <C-W>gf
 nnoremap <leader>d :Explore<CR>
@@ -61,9 +65,10 @@ noremap <silent> <F2> :echo 'Current time is ' . strftime('%c')<CR>
 noremap <silent> <F4> :!clear;./compile.bat %<CR>
 noremap <silent> <F5> :!clear; /.build.bat<CR>
 noremap <silent> <F7> : <Esc>:w<CR>:!clear;make makefile<CR>
-" noremap <silent> <F8> : <Esc>:w<CR>:!clear;scp % root@192.168.181.76:/home/root<CR>
+noremap <silent> <F8> : <Esc>:w<CR>:!clear;/home/user/scripts/color_list.sh<CR>
 noremap <silent> <F9> : <Esc>:w<CR>:!clear;python %<CR>
 noremap <silent> <F10> : <Esc>:w<CR>:!clear;python3 %<CR>
+noremap <silent> <F11> : <Esc>:w<CR>:!clear;pylint -rn %<CR>
 " }}}
 
 " Search Highlighting {{{
