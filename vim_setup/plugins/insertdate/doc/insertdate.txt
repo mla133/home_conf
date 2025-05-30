@@ -1,6 +1,0 @@
-"insertdate.txt"
-
-insertdate.vim - A simple Vim plugin to insert the current date.
-
-COMMANDS
-:InsertDate - Inserts the current date at the cursor position
