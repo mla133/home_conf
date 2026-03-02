@@ -1,0 +1,21 @@
+alias inj='cd ~/SoftwareDevelopment/acculoadiv/delivery/src/injector'
+alias fmc='cd ~/SoftwareDevelopment/gen-x-display.CoreUImk2-apps/linux-workspace/FMCupdater/src'
+alias aliv='cd ~/SoftwareDevelopment/acculoadiv'
+alias sign='cd ~/SoftwareDevelopment/acculoadiv && ./sign_bin.sh'
+alias publish="ssh root@192.168.181.70 'systemctl stop delivery' && scp ~/SoftwareDevelopment/acculoadiv/build-arm/delivery/delivery* root@192.168.181.70:/usr/bin && ssh root@192.168.181.70 'systemctl restart delivery'"
+alias publish_lab="ssh root@10.55.66.11 'systemctl stop delivery' && scp ~/SoftwareDevelopment/acculoadiv/build-arm/delivery/delivery* root@10.55.66.11:/usr/bin && ssh root@10.55.66.11 'systemctl restart delivery'"
+alias ml='cd ~/SoftwareDevelopment/legacyproducts.microloadnet/source'
+alias al3='cd ~/SoftwareDevelopment/legacyproducts.al3xnet/source'
+alias bld='cd ~/SoftwareDevelopment/acculoadiv/build-arm/delivery'
+#alias bld='cd ~/SoftwareDevelopment/gen-x-display.CoreUImk2-apps/build-arm/linux-workspace/FMCupdater'
+alias 8bit='cd ~/nand2tetris/projects/8bit'
+alias hwsim='/home/user/nand2tetris/tools/HardwareSimulator.sh'
+alias gui='sudo cp /etc/default/grub.gui /etc/default/grub && sudo update-grub && reboot'
+alias console='sudo cp /etc/default/grub.term /etc/default/grub && sudo update-grub && reboot'
+alias tmux="TERM=screen-256color-bce tmux"
+alias tiva='cd ~/SoftwareDevelopment/acculoadiv/tiva/liop/source'
+alias tiva_clean='sudo /opt/ti/ccsv8/utils/bin/gmake -k clean'
+alias tiva_build='sudo /opt/ti/ccsv8/utils/bin/gmake -k all'
+alias dbg='cd ../Debug/'
+alias scripts='cd /home/user/SoftwareDevelopment/Internal-Software-Tools.automated_testing/python/modbus/accuload'
+alias cat='lolcat'
