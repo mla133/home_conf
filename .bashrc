@@ -103,26 +103,6 @@ function jobcount {
 
 # Time Directory Jobs_Count Git Repo prompt
 export PS1='\[\e[31;40m\](\@)\[\e[m\] \[\e[32;40m\]\W\[\e[m\] \[\e[33;40m\][$(jobcount)]\[\e[m\]\[\e[36;40m\]$(__git_ps1)\e[m\]: '
-#export PS1='\e[31;40m(\@)\e[m \e[32;40m\W\e[m \e[33;40m[\j]\e[m\e[34;40m$(__git_ps1)\e[m : '
-#export PS1='\e[31;40m(\@)\e[m \e[32;40m\W\e[m \e[33;40m[$(jobcount)]\e[m\e[34;40m$(__git_ps1)\e[m: '
-
-# Smiley/Frown Face
-#export PS1='$(if [[ $? == 0 ]]; then printf "\e[32m\xf0\x9f\x98\x83\e[m"; else printf "\e[31m\xf0\x9f\x99\x81\e[m"; fi)\[\e[0m\] \u \w $ '
-
-# SpiderMan Theme
-#export PS1="\[\e[31m\]\332\304\[\e[34m\](\[\e[31m\]\u\[\e[34m\]@\[\e[31m\]\h\
-#\[\e[34m\])\[\e[31m\]-\[\e[34m\](\[\e[31m\]\$(date +%I:%M%P)\
-#\[\e[34m\]-:-\[\e[31m\]\$(date +%m)\[\e[34m\e[31m\]/\$(date +%d)\
-#\[\e[34m\])\[\e[31m\]\304-\[\e[34m]\\371\[\e[31m\]-\371\371\
-#\[\e[34m\]\372\n\[\e[31m\]\300\304\[\e[34m\](\[\e[31m\]\W\[\e[34m\])\
-#\[\e[31m\]\304\371\[\e[34m\]\372\[\e[00m\]"
-#export PS2="> "
-
-# Red Theme
-#export PS1="\[\e[31;41;1m\]\333\262\261\260\[\e[37;41;1m\]\u@\h\[\e[0m\e[31;40m\]\333\262\261\260\[\e[37;40;1m\] \d \$(date +%I:%M:%S%P)\n\[\e[31;40;1m\]\w/\[\e[0m\] "
-#export PS2="\[\e[31;40m\]\333\262\261\260\[\e[0m\]>"
-
-#export PS1="\u@\h \W[$(jobcount)]\$: "
 
 if [ -n "$STY" ]; then export PS1="(screen) $PS1"; fi
 

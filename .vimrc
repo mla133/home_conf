@@ -5,7 +5,7 @@ set title
 set number	    " show line numbers
 set cursorline 	" highlight current line
 set showmatch	" highlight matching [{()}]
-set foldenable  " enable folding
+" set foldenable  " enable folding
 set tabstop=4
 set shiftwidth=4
 set nobackup
@@ -13,7 +13,7 @@ set noswapfile
 set noexpandtab
 " Sets a vertical bar at 110 chars
 " set colorcolumn=110
-set t_Co=256
+" highlight ColorColumn ctermbg=darkgrey
 
 " highlight ColorColumn ctermbg=red
 hi Comment term=none ctermfg=green ctermbg=darkgray guifg=Gray
@@ -87,7 +87,7 @@ noremap <silent> <F5> :!clear; /.build.bat<CR>
 noremap <silent> <F7> : <Esc>:w<CR>:!clear;make makefile<CR>
 noremap <silent> <F8> : <Esc>:w<CR>:!clear;/home/user/scripts/color_list.sh<CR>
 noremap <silent> <F9> : <Esc>:w<CR>:!clear;python %<CR>
-noremap <silent> <F10> : <Esc>:w<CR>:vsplit<CR>:terminal bash<CR>i clear; python %<CR>
+noremap <silent> <F10> : <Esc>:w<CR>:!clear;python3 %<CR>
 noremap <silent> <F11> : <Esc>:w<CR>:!clear;pylint -rn %<CR>
 " }}}
 
@@ -123,43 +123,5 @@ augroup FileTypeColors
 	autocmd FileType pico8 colorscheme murphy
 	autocmd FileType cpp colorscheme koehler 
 augroup END
-
-" }}}
-
-" LLM integration {{{
-function! OllamaFIM()
-  " Get the current line
-  let l:line = getline('.')
-
-  " Cursor index (0‑based indexing for string slicing)
-  let l:cur = col('.') - 1
-
-  " Slice the current line correctly:
-  let l:prefix_line = strpart(l:line, 0, l:cur)
-  let l:suffix_line = strpart(l:line, l:cur)
-
-  " Build prefix: lines above + prefix segment
-  if line('.') > 1
-    let l:prefix = getline(1, line('.') - 1)
-    let l:prefix += [l:prefix_line]
-  else
-    let l:prefix = [l:prefix_line]
-  endif
-  let l:prefix = join(l:prefix, "\n")
-
-  " Build suffix: suffix segment + lines below
-  let l:suffix = [l:suffix_line]
-  if line('.') < line('$')
-    let l:suffix += getline(line('.') + 1, '$')
-  endif
-  let l:suffix = join(l:suffix, "\n")
-
-  " Run python script with FIM data
-  let l:cmd = "echo " . shellescape(l:prefix . '<<<SUFFIX>>>' . l:suffix) . " | ollama_fim.py"
-  let l:result = system(l:cmd)
-
-  " Insert at cursor; works in both Normal-mode and Insert-mode mapping
-  execute "normal! a" . l:result
-endfunction
 
 " }}}
