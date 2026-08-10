@@ -1,0 +1,1 @@
+Set-Alias vim "$env:LOCALAPPDATA\Programs\Vim\vim.exe"
