@@ -1,0 +1,17 @@
+Host homeBBB
+	HostName 192.168.1.76
+	User root
+
+Host workBBB
+	HostName 10.55.66.70
+	User root
+
+Host wallBBB
+	HostName 192.168.181.78
+	User debian
+
+# Wildcard settings for anything matching 'BBB' in the hostname
+# `ssh homeBBB` for example...
+# The BeagleBone Black ALIV images uses the Ciphers below to connect
+Host *BBB*
+	Ciphers aes128-ctr,aes192-ctr,aes256-ctr
